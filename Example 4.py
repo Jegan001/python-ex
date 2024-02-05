@@ -4,4 +4,5 @@ sum_even = 0
 for i in range(1,number,2):
     print(i,end=" ")
     sum_even += i
+    print(" ")
 print('sum_even:',sum_even)
